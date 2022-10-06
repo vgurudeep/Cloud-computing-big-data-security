@@ -1,1 +1,1 @@
-this is just a text to test encrpytion porgram i wrote
+this is just a text to test encrpytion porgram i wrote.
